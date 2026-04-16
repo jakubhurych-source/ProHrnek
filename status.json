@@ -2,85 +2,85 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "?tvrtek",
+      "weekday": "?t",
       "date": "16.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "p?tek",
+      "weekday": "P?",
       "date": "17.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "sobota",
+      "weekday": "So",
       "date": "18.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "ned?le",
+      "weekday": "Ne",
       "date": "19.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "pond?l?",
+      "weekday": "Po",
       "date": "20.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "?ter?",
+      "weekday": "?t",
       "date": "21.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "st?eda",
+      "weekday": "St",
       "date": "22.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "?tvrtek",
+      "weekday": "?t",
       "date": "23.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "p?tek",
+      "weekday": "P?",
       "date": "24.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "sobota",
+      "weekday": "So",
       "date": "25.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "ned?le",
+      "weekday": "Ne",
       "date": "26.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "pond?l?",
+      "weekday": "Po",
       "date": "27.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "?ter?",
+      "weekday": "?t",
       "date": "28.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "st?eda",
+      "weekday": "St",
       "date": "29.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
