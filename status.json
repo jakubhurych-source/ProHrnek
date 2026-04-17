@@ -2,12 +2,6 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "?t",
-      "date": "16.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
       "weekday": "P?",
       "date": "17.4",
       "houram": "10:00-12:00",
@@ -34,8 +28,8 @@
     {
       "weekday": "?t",
       "date": "21.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
+      "houram": "10:00-18:00",
+      "hourpm": ""
     },
     {
       "weekday": "St",
@@ -46,8 +40,8 @@
     {
       "weekday": "?t",
       "date": "23.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
+      "houram": "10:00-19:00",
+      "hourpm": ""
     },
     {
       "weekday": "P?",
@@ -82,6 +76,54 @@
     {
       "weekday": "St",
       "date": "29.4",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "?t",
+      "date": "30.4",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "P?",
+      "date": "1.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "So",
+      "date": "2.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "Ne",
+      "date": "3.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "Po",
+      "date": "4.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "?t",
+      "date": "5.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "St",
+      "date": "6.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "?t",
+      "date": "7.5",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     }
