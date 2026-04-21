@@ -2,34 +2,10 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "P?",
-      "date": "17.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "So",
-      "date": "18.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "Ne",
-      "date": "19.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "Po",
-      "date": "20.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "?t",
+      "weekday": "Ut",
       "date": "21.4",
-      "houram": "10:00-18:00",
-      "hourpm": ""
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
     },
     {
       "weekday": "St",
@@ -38,13 +14,13 @@
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "?t",
+      "weekday": "Ct",
       "date": "23.4",
-      "houram": "10:00-19:00",
-      "hourpm": ""
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "P?",
+      "weekday": "Pa",
       "date": "24.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
@@ -68,7 +44,7 @@
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "?t",
+      "weekday": "Ut",
       "date": "28.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
@@ -80,13 +56,13 @@
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "?t",
+      "weekday": "Ct",
       "date": "30.4",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "P?",
+      "weekday": "Pa",
       "date": "1.5",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
@@ -110,7 +86,7 @@
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "?t",
+      "weekday": "Ut",
       "date": "5.5",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
@@ -122,10 +98,46 @@
       "hourpm": "13:00-18:00"
     },
     {
-      "weekday": "?t",
+      "weekday": "Ct",
       "date": "7.5",
       "houram": "10:00-12:00",
       "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "Pa",
+      "date": "8.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "So",
+      "date": "9.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "Ne",
+      "date": "10.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "Po",
+      "date": "11.5",
+      "houram": "10:00-12:00",
+      "hourpm": "13:00-18:00"
+    },
+    {
+      "weekday": "",
+      "date": "",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "",
+      "date": "",
+      "houram": "",
+      "hourpm": ""
     }
   ]
 }
