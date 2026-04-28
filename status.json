@@ -34,20 +34,20 @@
     {
       "weekday": "Ne",
       "date": "3.5",
-      "houram": "10:00-16:00",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
       "weekday": "Po",
       "date": "4.5",
-      "houram": "10:00-12:00",
-      "hourpm": "15:00-19:00"
+      "houram": "10:00-16:00",
+      "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "5.5",
-      "houram": "10:00-18:00",
-      "hourpm": ""
+      "houram": "10:00-12:00",
+      "hourpm": "15:00-19:00"
     },
     {
       "weekday": "St",
