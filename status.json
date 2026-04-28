@@ -2,42 +2,6 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "St",
-      "date": "22.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "Ct",
-      "date": "23.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "Pa",
-      "date": "24.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "So",
-      "date": "25.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "Ne",
-      "date": "26.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
-      "weekday": "Po",
-      "date": "27.4",
-      "houram": "10:00-12:00",
-      "hourpm": "13:00-18:00"
-    },
-    {
       "weekday": "Ut",
       "date": "28.4",
       "houram": "10:00-12:00",
@@ -95,13 +59,13 @@
       "weekday": "Ct",
       "date": "7.5",
       "houram": "10:00-12:00",
-      "hourpm": ""
+      "hourpm": "13:00-18:00"
     },
     {
       "weekday": "Pa",
       "date": "8.5",
       "houram": "10:00-12:00",
-      "hourpm": ""
+      "hourpm": "13:00-18:00"
     },
     {
       "weekday": "So",
@@ -124,6 +88,42 @@
     {
       "weekday": "Ut",
       "date": "12.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "St",
+      "date": "13.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ct",
+      "date": "14.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Pa",
+      "date": "15.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "16.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ne",
+      "date": "17.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Po",
+      "date": "18.5",
       "houram": "",
       "hourpm": ""
     },
