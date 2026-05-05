@@ -2,42 +2,6 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "St",
-      "date": "29.4",
-      "houram": "10:00-18:00",
-      "hourpm": ""
-    },
-    {
-      "weekday": "Ct",
-      "date": "30.4",
-      "houram": "07:00-13:00",
-      "hourpm": ""
-    },
-    {
-      "weekday": "Pa",
-      "date": "1.5",
-      "houram": "Zavreno",
-      "hourpm": ""
-    },
-    {
-      "weekday": "So",
-      "date": "2.5",
-      "houram": "Zavreno",
-      "hourpm": ""
-    },
-    {
-      "weekday": "Ne",
-      "date": "3.5",
-      "houram": "Zavreno",
-      "hourpm": ""
-    },
-    {
-      "weekday": "Po",
-      "date": "4.5",
-      "houram": "10:00-16:00",
-      "hourpm": ""
-    },
-    {
       "weekday": "Ut",
       "date": "5.5",
       "houram": "10:00-12:00",
@@ -124,6 +88,42 @@
     {
       "weekday": "Ut",
       "date": "19.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "St",
+      "date": "20.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ct",
+      "date": "21.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Pa",
+      "date": "22.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "23.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ne",
+      "date": "24.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Po",
+      "date": "25.5",
       "houram": "",
       "hourpm": ""
     },
