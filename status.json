@@ -2,34 +2,28 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "Ut",
-      "date": "5.5",
-      "houram": "10:00-12:00",
-      "hourpm": "15:00-19:00"
-    },
-    {
       "weekday": "St",
       "date": "6.5",
-      "houram": "10:00-18:00",
+      "houram": "10:00 - 18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "7.5",
-      "houram": "10:00-18:00",
+      "houram": "10:00 - 18:00",
       "hourpm": ""
     },
     {
       "weekday": "Pa",
       "date": "8.5",
-      "houram": "10:00-17:00",
+      "houram": "10:00 - 18:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "9.5",
-      "houram": "Zavreno - Trhy Konesin",
-      "hourpm": ""
+      "houram": "Zavreno",
+      "hourpm": "Trhy Konesin"
     },
     {
       "weekday": "Ne",
@@ -40,90 +34,96 @@
     {
       "weekday": "Po",
       "date": "11.5",
-      "houram": "10:00-16:00",
+      "houram": "10:00 - 16:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "12.5",
-      "houram": "",
-      "hourpm": ""
+      "houram": "10:00 - 12:00",
+      "hourpm": "15:00 - 19:00"
     },
     {
       "weekday": "St",
       "date": "13.5",
-      "houram": "",
+      "houram": "10:00 - 18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "14.5",
-      "houram": "",
+      "houram": "10:00 - 19:00",
       "hourpm": ""
     },
     {
       "weekday": "Pa",
       "date": "15.5",
-      "houram": "",
+      "houram": "11:00 - 17:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "16.5",
-      "houram": "",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
       "weekday": "Ne",
       "date": "17.5",
-      "houram": "",
-      "hourpm": ""
+      "houram": "Zavreno ",
+      "hourpm": "Fler Chotebor"
     },
     {
       "weekday": "Po",
       "date": "18.5",
-      "houram": "",
+      "houram": "10:00 - 16:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "19.5",
-      "houram": "",
-      "hourpm": ""
+      "houram": "10:00 - 12:00",
+      "hourpm": "15:00 - 19:00"
     },
     {
       "weekday": "St",
       "date": "20.5",
-      "houram": "",
+      "houram": "10:00 - 18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "21.5",
-      "houram": "",
-      "hourpm": ""
+      "houram": "10:00 - 12:00",
+      "hourpm": "13:00 - 18:00"
     },
     {
       "weekday": "Pa",
       "date": "22.5",
-      "houram": "",
+      "houram": "11:00 - 17:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "23.5",
-      "houram": "",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
       "weekday": "Ne",
       "date": "24.5",
-      "houram": "",
+      "houram": "Zavreno ",
       "hourpm": ""
     },
     {
       "weekday": "Po",
       "date": "25.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ut",
+      "date": "26.5",
       "houram": "",
       "hourpm": ""
     },
