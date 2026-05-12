@@ -2,12 +2,6 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "Po",
-      "date": "11.5",
-      "houram": "10:00-16:00",
-      "hourpm": ""
-    },
-    {
       "weekday": "Ut",
       "date": "12.5",
       "houram": "10:00-12:00",
@@ -124,6 +118,12 @@
     {
       "weekday": "Ne",
       "date": "31.5",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Po",
+      "date": "1.6",
       "houram": "",
       "hourpm": ""
     },
