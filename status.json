@@ -2,18 +2,6 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "Pa",
-      "date": "15.5",
-      "houram": "11:00-17:00",
-      "hourpm": ""
-    },
-    {
-      "weekday": "So",
-      "date": "16.5",
-      "houram": "Zavreno",
-      "hourpm": ""
-    },
-    {
       "weekday": "Ne",
       "date": "17.5",
       "houram": "Zavreno ",
@@ -126,6 +114,18 @@
       "date": "4.6",
       "houram": "10:00-18:00",
       "hourpm": ""
+    },
+    {
+      "weekday": "Pa",
+      "date": "5.6",
+      "houram": "10:00-?",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "6.6",
+      "houram": "Zavreno Trhy ",
+      "hourpm": "Janske Lazne"
     },
     {
       "weekday": "",
