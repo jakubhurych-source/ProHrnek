@@ -2,12 +2,6 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "Ne",
-      "date": "17.5",
-      "houram": "Zavreno ",
-      "hourpm": "Fler Chotebor"
-    },
-    {
       "weekday": "Po",
       "date": "18.5",
       "houram": "10:00-16:00",
@@ -126,6 +120,12 @@
       "date": "6.6",
       "houram": "Zavreno Trhy ",
       "hourpm": "Janske Lazne"
+    },
+    {
+      "weekday": "Ne",
+      "date": "7.6",
+      "houram": "Zavreno ",
+      "hourpm": ""
     },
     {
       "weekday": "",
