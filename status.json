@@ -2,12 +2,6 @@
   "status": "OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "Po",
-      "date": "18.5",
-      "houram": "10:00-16:00",
-      "hourpm": ""
-    },
-    {
       "weekday": "Ut",
       "date": "19.5",
       "houram": "10:00-12:00",
@@ -125,6 +119,12 @@
       "weekday": "Ne",
       "date": "7.6",
       "houram": "Zavreno ",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Po",
+      "date": "8.6",
+      "houram": "",
       "hourpm": ""
     },
     {
