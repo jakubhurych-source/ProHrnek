@@ -2,12 +2,6 @@
   "status": "PREDPOKLADANA OTEVIRACI DOBA",
   "days": [
     {
-      "weekday": "So",
-      "date": "23.5",
-      "houram": "9:00-17:00",
-      "hourpm": ""
-    },
-    {
       "weekday": "Ne",
       "date": "24.5",
       "houram": "Zavreno ",
@@ -16,14 +10,14 @@
     {
       "weekday": "Po",
       "date": "25.5",
-      "houram": "10:00-16:00",
+      "houram": "12:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "26.5",
-      "houram": "10:00-12:00",
-      "hourpm": "15:00-19:00"
+      "houram": "10:00-18:00",
+      "hourpm": ""
     },
     {
       "weekday": "St",
@@ -34,7 +28,7 @@
     {
       "weekday": "Ct",
       "date": "28.5",
-      "houram": "10:00-18:00",
+      "houram": "11:00-18:00",
       "hourpm": ""
     },
     {
@@ -124,6 +118,12 @@
     {
       "weekday": "Pa",
       "date": "12.6",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "13.6",
       "houram": "",
       "hourpm": ""
     },
