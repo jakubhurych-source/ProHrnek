@@ -94,38 +94,38 @@
     {
       "weekday": "Po",
       "date": "8.6",
-      "houram": "",
+      "houram": "12:00-16:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "9.6",
-      "houram": "",
-      "hourpm": ""
+      "houram": "10:00-12:00",
+      "hourpm": "15:00-19:00"
     },
     {
       "weekday": "St",
       "date": "10.6",
-      "houram": "",
+      "houram": "10:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "11.6",
-      "houram": "",
+      "houram": "10:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Pa",
       "date": "12.6",
-      "houram": "",
+      "houram": "11:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "13.6",
-      "houram": "",
-      "hourpm": ""
+      "houram": "Zavreno Trhy ",
+      "hourpm": "Habry"
     },
     {
       "weekday": "",
