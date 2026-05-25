@@ -2,12 +2,6 @@
   "status": "PREDPOKLADANA OTEVIRACKA",
   "days": [
     {
-      "weekday": "Ne",
-      "date": "24.5",
-      "houram": "Zavreno ",
-      "hourpm": ""
-    },
-    {
       "weekday": "Po",
       "date": "25.5",
       "houram": "12:00-18:00",
@@ -126,6 +120,12 @@
       "date": "13.6",
       "houram": "Zavreno Trhy ",
       "hourpm": "Habry"
+    },
+    {
+      "weekday": "Ne",
+      "date": "14.6",
+      "houram": "Zavreno",
+      "hourpm": ""
     },
     {
       "weekday": "",
