@@ -2,12 +2,6 @@
   "status": "PREDPOKLADANA OTEVIRACKA",
   "days": [
     {
-      "weekday": "Ut",
-      "date": "26.5",
-      "houram": "10:00-18:00",
-      "hourpm": ""
-    },
-    {
       "weekday": "St",
       "date": "27.5",
       "houram": "11:00-18:00",
@@ -124,6 +118,12 @@
     {
       "weekday": "Po",
       "date": "15.6",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ut",
+      "date": "16.6",
       "houram": "",
       "hourpm": ""
     },
