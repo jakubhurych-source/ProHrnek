@@ -2,15 +2,9 @@
   "status": "ORIENTACNI OTEVIRACKA",
   "days": [
     {
-      "weekday": "Ct",
-      "date": "28.5",
-      "houram": "11:00-18:00",
-      "hourpm": ""
-    },
-    {
       "weekday": "Pa",
       "date": "29.5",
-      "houram": "10:00-17:00",
+      "houram": "11:00-17:00",
       "hourpm": ""
     },
     {
@@ -124,6 +118,12 @@
     {
       "weekday": "St",
       "date": "17.6",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ct",
+      "date": "18.6",
       "houram": "",
       "hourpm": ""
     },
