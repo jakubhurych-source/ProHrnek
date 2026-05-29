@@ -22,7 +22,7 @@
     {
       "weekday": "Po",
       "date": "1.6",
-      "houram": "10:00-16:00",
+      "houram": "11:00-16:00",
       "hourpm": ""
     },
     {
@@ -64,7 +64,7 @@
     {
       "weekday": "Po",
       "date": "8.6",
-      "houram": "12:00-16:00",
+      "houram": "10:00-16:00",
       "hourpm": ""
     },
     {
@@ -106,7 +106,7 @@
     {
       "weekday": "Po",
       "date": "15.6",
-      "houram": "",
+      "houram": "12:00-16:00",
       "hourpm": ""
     },
     {
