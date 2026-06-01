@@ -2,18 +2,6 @@
   "status": "ORIENTACNI OTEVIRACKA",
   "days": [
     {
-      "weekday": "So",
-      "date": "30.5",
-      "houram": "11:00-17:00",
-      "hourpm": ""
-    },
-    {
-      "weekday": "Ne",
-      "date": "31.5",
-      "houram": "Zavreno ",
-      "hourpm": ""
-    },
-    {
       "weekday": "Po",
       "date": "1.6",
       "houram": "11:00-18:00",
@@ -125,6 +113,18 @@
       "weekday": "Pa",
       "date": "19.6",
       "houram": "10:00-17:00",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "20.6",
+      "houram": "10:00-17:00",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ne",
+      "date": "21.6",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
