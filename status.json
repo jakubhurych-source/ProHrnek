@@ -2,18 +2,6 @@
   "status": "ORIENTACNI OTEVIRACKA",
   "days": [
     {
-      "weekday": "So",
-      "date": "6.6",
-      "houram": "Zavreno Trhy ",
-      "hourpm": "Janske Lazne"
-    },
-    {
-      "weekday": "Ne",
-      "date": "7.6",
-      "houram": "Zavreno ",
-      "hourpm": ""
-    },
-    {
       "weekday": "Po",
       "date": "8.6",
       "houram": "10:00-16:00",
@@ -125,6 +113,18 @@
       "weekday": "Pa",
       "date": "26.6",
       "houram": "10:00-13:00",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "27.6",
+      "houram": "Zavreno Mala ",
+      "hourpm": "Upa"
+    },
+    {
+      "weekday": "Ne",
+      "date": "28.6",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
