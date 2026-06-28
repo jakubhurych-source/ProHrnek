@@ -2,18 +2,6 @@
   "status": "ORIENTACNI OTEVIRACKA",
   "days": [
     {
-      "weekday": "Pa",
-      "date": "26.6",
-      "houram": "Zavreno",
-      "hourpm": ""
-    },
-    {
-      "weekday": "So",
-      "date": "27.6",
-      "houram": "Zavreno Trhy",
-      "hourpm": "Mala Upa"
-    },
-    {
       "weekday": "Ne",
       "date": "28.6",
       "houram": "Zavreno",
@@ -124,6 +112,18 @@
     {
       "weekday": "Ct",
       "date": "16.7",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Pa",
+      "date": "17.7",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "18.7",
       "houram": "",
       "hourpm": ""
     },
