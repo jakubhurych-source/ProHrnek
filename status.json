@@ -2,24 +2,6 @@
   "status": "ORIENTACNI OTEVIRACKA",
   "days": [
     {
-      "weekday": "Ct",
-      "date": "23.7",
-      "houram": "09:00-17:00",
-      "hourpm": ""
-    },
-    {
-      "weekday": "Pa",
-      "date": "24.7",
-      "houram": "11:00-17:00",
-      "hourpm": ""
-    },
-    {
-      "weekday": "So",
-      "date": "25.7",
-      "houram": "11:00-17:00",
-      "hourpm": ""
-    },
-    {
       "weekday": "Ne",
       "date": "26.7",
       "houram": "Zavreno",
@@ -28,79 +10,79 @@
     {
       "weekday": "Po",
       "date": "27.7",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "28.7",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "St",
       "date": "29.7",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "30.7",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Pa",
       "date": "31.7",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "1.8",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ne",
       "date": "2.8",
-      "houram": "Zavreno",
+      "houram": "Dovolena",
       "hourpm": ""
     },
     {
       "weekday": "Po",
       "date": "3.8",
-      "houram": "11:00-17:00",
+      "houram": "Dovolena",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "4.8",
-      "houram": "11:00-17:00",
+      "houram": "Dovolena",
       "hourpm": ""
     },
     {
       "weekday": "St",
       "date": "5.8",
-      "houram": "11:00-17:00",
+      "houram": "Dovolena",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "6.8",
-      "houram": "11:00-17:00",
+      "houram": "12:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Pa",
       "date": "7.8",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "8.8",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
@@ -112,19 +94,37 @@
     {
       "weekday": "Po",
       "date": "10.8",
-      "houram": "Zavreno",
+      "houram": "10:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "11.8",
-      "houram": "",
+      "houram": "10:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "St",
       "date": "12.8",
-      "houram": "",
+      "houram": "Dovolena",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Ct",
+      "date": "13.8",
+      "houram": "Dovolena",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Pa",
+      "date": "14.8",
+      "houram": "Dovolena",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "15.8",
+      "houram": "Dovolena",
       "hourpm": ""
     },
     {
