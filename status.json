@@ -10,7 +10,7 @@
     {
       "weekday": "So",
       "date": "8.8",
-      "houram": "11:00-17:00",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
@@ -106,25 +106,25 @@
     {
       "weekday": "Po",
       "date": "24.8",
-      "houram": "",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "25.8",
-      "houram": "",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "St",
       "date": "26.8",
-      "houram": "",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "27.8",
-      "houram": "",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
