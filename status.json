@@ -46,13 +46,13 @@
     {
       "weekday": "Po",
       "date": "17.8",
-      "houram": "13:00-17:00",
+      "houram": "14:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "18.8",
-      "houram": "10:00-17:00",
+      "houram": "11:00-18:00",
       "hourpm": ""
     },
     {
@@ -70,7 +70,7 @@
     {
       "weekday": "Pa",
       "date": "21.8",
-      "houram": "10:00-17:00",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
@@ -88,19 +88,19 @@
     {
       "weekday": "Po",
       "date": "24.8",
-      "houram": "10:00-17:00",
+      "houram": "09:00-13:00",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "25.8",
-      "houram": "10:00-17:00",
+      "houram": "12:00-19:00",
       "hourpm": ""
     },
     {
       "weekday": "St",
       "date": "26.8",
-      "houram": "10:00-17:00",
+      "houram": "14:00-19:00",
       "hourpm": ""
     },
     {
@@ -118,7 +118,7 @@
     {
       "weekday": "So",
       "date": "29.8",
-      "houram": "10:00-17:00",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
