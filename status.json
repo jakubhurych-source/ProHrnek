@@ -2,12 +2,6 @@
   "status": "ORIENTACNI OTEVIRACKA",
   "days": [
     {
-      "weekday": "So",
-      "date": "5.9",
-      "houram": "11:00-16:00",
-      "hourpm": ""
-    },
-    {
       "weekday": "Ne",
       "date": "6.9",
       "houram": "Zavreno",
@@ -16,7 +10,7 @@
     {
       "weekday": "Po",
       "date": "7.9",
-      "houram": "10:00-17:00",
+      "houram": "11:00-19:00",
       "hourpm": ""
     },
     {
@@ -64,37 +58,37 @@
     {
       "weekday": "Ut",
       "date": "15.9",
-      "houram": "",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "St",
       "date": "16.9",
-      "houram": "",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "17.9",
-      "houram": "",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Pa",
       "date": "18.9",
-      "houram": "",
+      "houram": "10:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "19.9",
-      "houram": "",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
       "weekday": "Ne",
       "date": "20.9",
-      "houram": "",
+      "houram": "Zavreno",
       "hourpm": ""
     },
     {
@@ -125,6 +119,12 @@
       "weekday": "Pa",
       "date": "25.9",
       "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "26.9",
+      "houram": "Trh Psinice",
       "hourpm": ""
     },
     {
