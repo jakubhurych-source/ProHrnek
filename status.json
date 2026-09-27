@@ -2,18 +2,6 @@
   "status": "ORIENTACNI OTEVIRACKA",
   "days": [
     {
-      "weekday": "Pa",
-      "date": "25.9",
-      "houram": "11:00-17:00",
-      "hourpm": ""
-    },
-    {
-      "weekday": "So",
-      "date": "26.9",
-      "houram": "Zavreno",
-      "hourpm": "Trh Psinice"
-    },
-    {
       "weekday": "Ne",
       "date": "27.9",
       "houram": "Zavreno",
@@ -124,6 +112,18 @@
     {
       "weekday": "Ct",
       "date": "15.10",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "Pa",
+      "date": "16.10",
+      "houram": "",
+      "hourpm": ""
+    },
+    {
+      "weekday": "So",
+      "date": "17.10",
       "houram": "",
       "hourpm": ""
     },
