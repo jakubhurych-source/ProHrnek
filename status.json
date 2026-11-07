@@ -28,13 +28,13 @@
     {
       "weekday": "St",
       "date": "11.11",
-      "houram": " 11:00-17:00",
+      "houram": " 11:00-19:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "12.11",
-      "houram": " 11:00-18:00",
+      "houram": " 11:00-19:00",
       "hourpm": ""
     },
     {
@@ -46,55 +46,55 @@
     {
       "weekday": "So",
       "date": "14.11",
-      "houram": " 11:00-16:00",
+      "houram": " 10:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ne",
       "date": "15.11",
-      "houram": " Zavreno",
+      "houram": " 10:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Po",
       "date": "16.11",
-      "houram": "",
+      "houram": " 11:00-15:30",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "17.11",
-      "houram": "",
+      "houram": " 11:00-19:00",
       "hourpm": ""
     },
     {
       "weekday": "St",
       "date": "18.11",
-      "houram": "",
+      "houram": " 11:00-18:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "19.11",
-      "houram": "",
+      "houram": " 11:00-19:00",
       "hourpm": ""
     },
     {
       "weekday": "Pa",
       "date": "20.11",
-      "houram": "",
+      "houram": " 11:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "21.11",
-      "houram": "",
+      "houram": " 11:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ne",
       "date": "22.11",
-      "houram": "",
+      "houram": " 11:00-17:00",
       "hourpm": ""
     },
     {
