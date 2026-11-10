@@ -10,7 +10,7 @@
     {
       "weekday": "St",
       "date": "11.11",
-      "houram": " 11:00-19:00",
+      "houram": " 12:00-19:00",
       "hourpm": ""
     },
     {
@@ -40,7 +40,7 @@
     {
       "weekday": "Po",
       "date": "16.11",
-      "houram": " 11:00-15:30",
+      "houram": " 11:00-17:00",
       "hourpm": ""
     },
     {
@@ -52,7 +52,7 @@
     {
       "weekday": "St",
       "date": "18.11",
-      "houram": " 11:00-18:00",
+      "houram": " 12:00-18:00",
       "hourpm": ""
     },
     {
@@ -64,7 +64,7 @@
     {
       "weekday": "Pa",
       "date": "20.11",
-      "houram": " 11:00-18:00",
+      "houram": " 11:00-17:00",
       "hourpm": ""
     },
     {
@@ -76,49 +76,49 @@
     {
       "weekday": "Ne",
       "date": "22.11",
-      "houram": " 11:00-17:00",
+      "houram": " Zavreno",
       "hourpm": ""
     },
     {
       "weekday": "Po",
       "date": "23.11",
-      "houram": "",
+      "houram": " 10:00-15:30",
       "hourpm": ""
     },
     {
       "weekday": "Ut",
       "date": "24.11",
-      "houram": "",
+      "houram": " 11:00-19:00",
       "hourpm": ""
     },
     {
       "weekday": "St",
       "date": "25.11",
-      "houram": "",
+      "houram": " 11:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ct",
       "date": "26.11",
-      "houram": "",
+      "houram": " 12:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Pa",
       "date": "27.11",
-      "houram": "",
+      "houram": " 8:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "So",
       "date": "28.11",
-      "houram": "",
+      "houram": " 11:00-17:00",
       "hourpm": ""
     },
     {
       "weekday": "Ne",
       "date": "29.11",
-      "houram": "",
+      "houram": " 11:00-17:00",
       "hourpm": ""
     },
     {
